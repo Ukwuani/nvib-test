@@ -1,0 +1,11 @@
+,workclass,education,marital-status,occupation,relationship,race,sex,native-country,income,age,fnlwgt,education-num,capital-gain,capital-loss,hours-per-week
+0,Federal-gov,10th,Divorced,Adm-clerical,Husband,Amer-Indian-Eskimo,Female,Canada,<=50K,38.43791,189793.88,10.121312,1092.0221,88.3727,40.931244
+1,Federal-gov,10th,Divorced,Adm-clerical,Husband,Amer-Indian-Eskimo,Female,Canada,<=50K,38.437904,189793.83,10.121311,1092.0087,88.37249,40.931236
+2,Federal-gov,10th,Divorced,Adm-clerical,Husband,Amer-Indian-Eskimo,Female,Canada,<=50K,38.43791,189793.86,10.121312,1092.017,88.37274,40.931244
+3,Federal-gov,10th,Divorced,Adm-clerical,Husband,Amer-Indian-Eskimo,Female,Canada,<=50K,38.437904,189793.84,10.121311,1092.011,88.37252,40.93124
+4,Federal-gov,10th,Divorced,Adm-clerical,Husband,Amer-Indian-Eskimo,Female,Cambodia,<=50K,38.43791,189793.86,10.121312,1092.0482,88.372696,40.93124
+5,Federal-gov,10th,Divorced,Adm-clerical,Husband,Amer-Indian-Eskimo,Female,Canada,<=50K,38.43791,189793.86,10.121312,1092.0095,88.3726,40.93124
+6,Federal-gov,10th,Divorced,Adm-clerical,Husband,Amer-Indian-Eskimo,Female,Canada,<=50K,38.437904,189793.83,10.121311,1092.0084,88.372505,40.93124
+7,Federal-gov,10th,Divorced,Adm-clerical,Husband,Amer-Indian-Eskimo,Female,Canada,<=50K,38.437912,189793.84,10.121312,1092.0084,88.372696,40.93124
+8,Federal-gov,10th,Divorced,Adm-clerical,Husband,Amer-Indian-Eskimo,Female,Cambodia,<=50K,38.438713,189798.53,10.121472,1092.3729,88.408035,40.931587
+9,Federal-gov,10th,Divorced,Adm-clerical,Husband,Amer-Indian-Eskimo,Female,Canada,<=50K,38.43791,189793.86,10.121312,1092.0176,88.37264,40.93124
