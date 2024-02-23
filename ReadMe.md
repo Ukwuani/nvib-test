@@ -1,3 +1,21 @@
+# VAE with NVIB
+
+### Setup
+Recommended
+
+Python 3.11.5
+Pytorch min 2.0
+Jupiter NB
+
+Open test.ipynb on Jupiter NB or text editor with Jupyter NB plugin and run all
+
+<hr/>
+<br/>
+<br/>
+<br/>
+
+## Flow Details
+
 
 ![NVIB image](./assets/nvib.png)
 
