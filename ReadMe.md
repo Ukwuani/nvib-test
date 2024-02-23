@@ -9,6 +9,7 @@ Jupiter NB
 
 Open test.ipynb on Jupiter NB or text editor with Jupyter NB plugin and run all
 
+NB: learning rate could tweaked
 <hr/>
 <br/>
 <br/>
